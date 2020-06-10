@@ -1,1 +1,58 @@
 
+#header-nav {
+	background-color: gray;
+}
+#title {
+	font-family: Helvetica;
+	margin-top: 0;
+	text-align: left;
+	color: black;
+}
+.navbar-header {
+	
+	height: 75px;
+}
+
+.container {
+	
+	width: 100%;
+	
+}
+#nav-list {
+	background-color: white;
+	margin-bottom: 0;
+}
+#field1 {
+	margin-top: 18px;
+}
+#field1,#field2,#field3 {
+	font-family: Helvetica;
+	color:black;
+	font-size: 20px;
+}
+hr {
+	background-color: black;
+	
+	height: 2px;
+}
+#main-heading {
+	font-family: Helvetica;
+	background-color: white;
+	margin-left: 0;
+	margin-right: 0;
+	font-size: 25px;
+	margin-bottom: 15px;
+}
+.row {
+	height: 1010px;
+	background-color: gray;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+#home div{
+	margin-top: 5px;
+	font-size: 10.5px;
+}
+#content {
+	margin-top: 25px;
+}
